@@ -1,0 +1,19 @@
+.dashboard{
+    border: 2px solid rosybrown;
+    min-height: 100vh;
+}
+
+.headerMenu{
+    display: flex;
+    justify-content: space-between;
+    // background-color: aquamarine;
+    // background: linear-gradient(90deg, rgba(238,174,202,1) 37%, rgba(148,187,233,1) 71%);
+    background: linear-gradient(30deg, rgba(148,187,233,1) 10%, rgba(238,174,202,1) 50%);
+    color: rgb(13, 128, 0);
+    font-weight: 900;
+    font-style:italic ;
+    li {
+        margin: 5px 25px;
+        list-style: none;
+    }
+}

@@ -1,0 +1,13 @@
+.footerMenu{
+    display: flex;
+    justify-content: space-between;
+    // background-color: purple;
+    background: linear-gradient(90deg, rgba(148,187,233,1) 0%, rgba(238,174,202,1) 100%);
+    color: purple;
+    font-weight: 900;
+    font-style:oblique ;
+    li {
+        margin: 5px 25px;
+        list-style: none;
+    }
+}

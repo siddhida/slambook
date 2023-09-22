@@ -32,7 +32,8 @@
     "reflect-metadata": "^0.1.13",
     "routing-controllers": "^0.10.4",
     "tsyringe": "^4.8.0",
-    "typeorm": "^0.3.17"
+    "typeorm": "^0.3.17",
+    "yup": "^1.2.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.14",
